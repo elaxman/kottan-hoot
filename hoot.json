@@ -1,0 +1,12 @@
+{
+	"endpoint": "tcp://192.168.1.243",
+	"endpoint_port":  "50102",
+	"channel": "kottan/hoot",
+	"gateway": "true",
+	"gateway_port": "50100",
+	"accountid": "",
+	"userid": "",
+	"apikey": "",
+	"data": "",
+	"log": ""
+}
